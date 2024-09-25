@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,44 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+👨🏻‍💻 Work experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2012 - Current: Lecturer (Department of Mechatronics Engineering)
+  * Universiti Teknikal Malaysia Melaka (UTeM)
+  * Duties includes: 
+    * Engineering course delivery
+    * Undergraduate students project supervision
+    * Postgraduate student project supervision
+    * Various academic administrative duties 
+  * Supervisor: Faculty dean
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024 - Current: Industrial Project Researcher
+  * Petronas Research Sdn. Bhd.
+  * Project Title:   Optimal Energy Prediction System Simulator for Compressors Network in Oil and Gas Facilities
+  * Duties: Develop energy forecasting algorithm for motor compressor network using classical deep learning methods and generative AI methods.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023 - 2024 : Industrial Project Researcher
+  * OnSemi Sdn. Bhd.
+  * Project Title: Predictive Modelling Using AI for SiC Solder Interface at Packaging Level
+  * Duties: Develop image segmentation algorithm to detect solder void and defects for x-ray images using deep learning techniques.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
+🛠️ Skills
+======
+* General Programming: C, C++, Python, MATLAB
+* AI-machine learning related programming: Pytorch, Tensorflow, Scikit-learn
+* Robotics related: Robotics Operating System (ROS), Micro-ROS
+* Embedded computers and electronics: Nvidia Jetson, Raspberry Pi, Arduino
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -59,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+👨🏻‍💼 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently head of Rehabilitation and Assistive Technology (REAT) research group under Centre of Robotics, Instrumentation and Automation (CERIA), UTeM.
