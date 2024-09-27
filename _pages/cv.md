@@ -41,13 +41,13 @@ redirect_from:
 * Embedded computers and electronics: Nvidia Jetson, Raspberry Pi, Arduino
 
 
-Talks
+🎙 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+👨‍🏫 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -56,3 +56,4 @@ Teaching
 👨🏻‍💼 Service and leadership
 ======
 * Currently head of Rehabilitation and Assistive Technology (REAT) research group under Centre of Robotics, Instrumentation and Automation (CERIA), UTeM.
+* Program Commitee Member, 5th International Conference on Deep Learning Theory and Applications, 10th -11th July 2024, Dijon France
