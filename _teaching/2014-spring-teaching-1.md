@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Electrical Technology and Engineering (FTKE)"
-date: 2024-09-10
+date: 2024-12-24
 location: "UTeM, Melaka, Malaysia"
 ---
 
